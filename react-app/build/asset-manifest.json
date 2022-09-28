@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/moralis/static/css/main.c4901137.css",
+    "main.js": "/moralis/static/js/main.d4e0b88f.js",
+    "static/js/978.ef3ad718.chunk.js": "/moralis/static/js/978.ef3ad718.chunk.js",
+    "static/js/938.6178794a.chunk.js": "/moralis/static/js/938.6178794a.chunk.js",
+    "static/js/389.0b71fe2c.chunk.js": "/moralis/static/js/389.0b71fe2c.chunk.js",
+    "static/js/122.bc9b7049.chunk.js": "/moralis/static/js/122.bc9b7049.chunk.js",
+    "static/js/924.5dd6b533.chunk.js": "/moralis/static/js/924.5dd6b533.chunk.js",
+    "static/js/745.aa1371bf.chunk.js": "/moralis/static/js/745.aa1371bf.chunk.js",
+    "static/js/656.e45ebd02.chunk.js": "/moralis/static/js/656.e45ebd02.chunk.js",
+    "static/js/256.030553ee.chunk.js": "/moralis/static/js/256.030553ee.chunk.js",
+    "static/js/968.9a6a0585.chunk.js": "/moralis/static/js/968.9a6a0585.chunk.js",
+    "static/js/98.89a37df5.chunk.js": "/moralis/static/js/98.89a37df5.chunk.js",
+    "index.html": "/moralis/index.html",
+    "main.c4901137.css.map": "/moralis/static/css/main.c4901137.css.map",
+    "main.d4e0b88f.js.map": "/moralis/static/js/main.d4e0b88f.js.map",
+    "938.6178794a.chunk.js.map": "/moralis/static/js/938.6178794a.chunk.js.map",
+    "389.0b71fe2c.chunk.js.map": "/moralis/static/js/389.0b71fe2c.chunk.js.map",
+    "122.bc9b7049.chunk.js.map": "/moralis/static/js/122.bc9b7049.chunk.js.map",
+    "656.e45ebd02.chunk.js.map": "/moralis/static/js/656.e45ebd02.chunk.js.map",
+    "256.030553ee.chunk.js.map": "/moralis/static/js/256.030553ee.chunk.js.map",
+    "968.9a6a0585.chunk.js.map": "/moralis/static/js/968.9a6a0585.chunk.js.map",
+    "98.89a37df5.chunk.js.map": "/moralis/static/js/98.89a37df5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4901137.css",
+    "static/js/main.d4e0b88f.js"
+  ]
+}
